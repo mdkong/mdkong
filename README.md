@@ -11,7 +11,7 @@
 - 💻 &nbsp; Basic | Fortran | Pascal | Python | MFC | 
 - 🌐 &nbsp; English | Chinese |Japanese | Russian basic |
 - 🔧 &nbsp; Git | Photoshop | Illustator
--    
+- 😄 &nbsp; Coming soon,, AI, Python upgraded, ML, DL, Statistics basic etc
 
 ### 📫🤝🏻 Connect with Me
 
@@ -19,7 +19,7 @@
  - Shoot Me an [Email](mailto:mdkong@gmail.com) 💌
  - [My GitHub](https://github.com/mdkong)
 
- ⭐️ From [MD Kong](https://github.com/mdkong)
+ ⭐️ From [MD Kong](https://happygiver.com)
 
 
 <!--
