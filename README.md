@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 😄 &nbsp; Enjoying challenges ^^;;
+- 🎓 &nbsp; Studying AI, Python, Deep learing etc at http://www.ycampus.co.kr/.
+- 🌱 &nbsp; Running my own business in the Cosmetics, Health Foods area.
+
+<h3>🛠 Things Stacked</h3>
+
+- 💻 &nbsp; Basic | Fortran | Pascal | Python | MFC | 
+- 🌐 &nbsp; English | Chinese |Japanese | Russian basic |
+- 🔧 &nbsp; Git | Photoshop | Illustator
+-    
+
+### 📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshradhanpura/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:mdkong@gmail.com) 💌
+ - [My GitHub](https://github.com/mdkong)
+
+ ⭐️ From [MD Kong](https://github.com/mdkong)
+
+
 <!--
 **mdkong/mdkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
