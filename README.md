@@ -9,7 +9,7 @@
 <h3>🛠 Things Stacked</h3>
 
 - 💻 &nbsp; Basic | Fortran | Pascal | MFC | Python | 
-- 🌐 &nbsp; English | Japanese | Chinese | Russian basic |
+- 🌐 &nbsp; English | にほんご | 汉语 | ภาษาไทย | русский язык |
 - 🔧 &nbsp; Photoshop | Illustator | Git | 
 - 😄 &nbsp; Coming soon,, AI, Python upgraded, ML, DL, Statistics basic etc
 
