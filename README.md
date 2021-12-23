@@ -15,7 +15,7 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [Kakao Talk: mdkong](https://linksharing.samsungcloud.com/rOtpGUu9RPZB) 👨🏻‍💻
+ - Connect with me on [Kakao Talk: mdkong][wechat: mdkong] 👨🏻‍💻 **(https://linksharing.samsungcloud.com/rOtpGUu9RPZB)
  - Shoot Me an [Email](mailto:mdkong@gmail.com) 💌
  - [My GitHub](https://github.com/mdkong)
 
